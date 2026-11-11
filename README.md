@@ -2,7 +2,11 @@
 
 수원문화재단 공공 API의 행사 정보를 **지도 위에서 한눈에** 보는 웹 서비스입니다.
 
-**👉 바로 써보기: https://gwhong-dev.github.io/suwon-culture-map/**
+> **🌐 최신 운영 서비스: https://suwonbible.com** (로그인 · 찜 동기화 · 필터 · 길찾기 · 공유 포함)
+> 원본 저장소: [gwhong-dev/SuwonCultureMap](https://github.com/gwhong-dev/SuwonCultureMap)
+
+이 저장소는 **초기 정적 버전(구버전)** 입니다. 서버 · 로그인 없이 지도만 보는 첫 데모로 남겨 두었습니다.
+→ 정적 버전 보기: https://gwhong-dev.github.io/suwon-culture-map/
 
 ---
 
@@ -36,7 +40,7 @@
 
 - 서버 없이 누구나 접속할 수 있게 **로그인·DB를 뺀 정적 버전**으로 배포했습니다.
 - 백엔드(엔티티 설계, XML 매핑, 동기화, 소셜 로그인·계정 통합)는 원본 저장소에 있습니다.
-  → [SuwonCultureMap (Spring Boot)](https://github.com/honggyeongwoo/SuwonCultureMap)
+  → [SuwonCultureMap (Spring Boot)](https://github.com/gwhong-dev/SuwonCultureMap)
 
 ## 행사 데이터 업데이트 방법
 
